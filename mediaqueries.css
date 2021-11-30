@@ -1,0 +1,38 @@
+@media only screen and (max-width:360){
+    .image-adj{
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width:450px){
+    tr,th{
+        padding: 0;
+    }
+    .passport{
+        width: 55%;
+    }
+    .aboutself{
+        width: 55%;
+        padding: 39px;
+    }
+}
+
+@media only screen and (max-width:450px){
+    body{
+        font-size: 0.6rem;
+    }
+}
+
+
+@media only screen and (max-width:768px){
+    body{
+        font-size: 0.5rem;
+        font-weight: bold;
+    }
+}
+
+@media only screen and (max-width:360){
+    
+
+}
